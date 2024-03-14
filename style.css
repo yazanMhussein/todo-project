@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    
+}
+.sizeme{
+    height: 100px;
+    width: 100px;
+}
+move{
+    display: inline-block;
+}
